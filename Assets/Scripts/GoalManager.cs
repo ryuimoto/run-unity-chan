@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class GoalManager : MonoBehaviour
 {
@@ -18,5 +19,14 @@ public class GoalManager : MonoBehaviour
     void Update()
     {
         
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.name == player.name)
+        {
+            text.GetComponent<TextMeshProUGUI>().text = "Goal!!!";
+            text.SetActive(true);
+        }
     }
 }
