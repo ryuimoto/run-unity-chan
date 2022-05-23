@@ -235,3 +235,45 @@ Received Import Request.
   path: Assets/unity-chan!
   artifactKey: Guid(e53e1676c093c4add8393c5191125bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/unity-chan! using Guid(e53e1676c093c4add8393c5191125bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bba00eb3eec69676542048b14ebfdc8') in 0.003201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 77.246212 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model
+  artifactKey: Guid(6395fe2434a22ef41b83186b290f8fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model using Guid(6395fe2434a22ef41b83186b290f8fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62eb8ede89aecdddbd1f691c5324a9f') in 0.001691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.481866 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Scripts
+  artifactKey: Guid(bcd7a07ee4a0c614a93bc492b082f7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Scripts using Guid(bcd7a07ee4a0c614a93bc492b082f7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ccd716b5a3a5492d4c1b998ca4d39ae') in 0.001392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.721935 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs
+  artifactKey: Guid(f875c0a860fab1c498f1ed5edcee2b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs using Guid(f875c0a860fab1c498f1ed5edcee2b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781a7261fc5c4e074940bb40d182feee') in 0.000570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.100822 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/BoxUnityChan.prefab
+  artifactKey: Guid(6788413dff62c534d8ca610faef3c7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/BoxUnityChan.prefab using Guid(6788413dff62c534d8ca610faef3c7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '116e5ae4125e5c69584cd445577deca9') in 0.426512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/LookPos.prefab
+  artifactKey: Guid(6d5bff5837eca402492a89073b17c2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/LookPos.prefab using Guid(6d5bff5837eca402492a89073b17c2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ba15ffe88a49bd8893336a22f54471') in 0.001721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/unitychan.prefab
+  artifactKey: Guid(412b92d4feeb9c548bfa98f62c4d1022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/unitychan.prefab using Guid(412b92d4feeb9c548bfa98f62c4d1022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '068e612b2c0f4e766b3246a2ad1d9d23') in 0.571025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/Locator_IKtarget.prefab
+  artifactKey: Guid(88eeda7d3a9f2492da9213d1c1ab46d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/Locator_IKtarget.prefab using Guid(88eeda7d3a9f2492da9213d1c1ab46d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b87a53e3c12ef685828a34dfd8033e1e') in 0.014987 seconds 
