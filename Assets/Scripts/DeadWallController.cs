@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityChan;
+using TMPro;
 
 public class DeadWallController : MonoBehaviour
 {
@@ -34,7 +35,7 @@ public class DeadWallController : MonoBehaviour
     {
         if (other.gameObject.name == player.name)
         {
-            text.GetComponent<Text>().text = "GameOver...";
+            text.GetComponent<TextMeshProUGUI>().text = "GameOver...";
             text.SetActive(true);
 
             player.GetComponent<UnityChanControlScriptWithRgidBody>().enabled = false;
