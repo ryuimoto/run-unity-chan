@@ -330,6 +330,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/DeadWallController.cs"
 "Assets/Scripts/GoalManager.cs"
+"Assets/Scripts/TimeManager.cs"
 "Assets/Scripts/WallController.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
